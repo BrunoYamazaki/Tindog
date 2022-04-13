@@ -119,3 +119,13 @@ p {
 .carousel-item {
   padding: 7% 15%;
 }
+
+/* CARDS */
+
+#pricing {
+  padding: 100px;
+}
+
+.price-column {
+  padding: 3% 2%  ;
+}
